@@ -27109,7 +27109,7 @@ a {
 }
 @media (max-width: 575.98px) {
   .hero-heading-text {
-    font-size: 50px;
+    font-size: 54px;
   }
 }
 
@@ -30680,3 +30680,7 @@ html {
   width: auto;
 }
 
+.blog-image img{
+  height: 200px !important;
+  width: 300px !important;
+}
