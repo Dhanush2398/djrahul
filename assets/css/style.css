@@ -30816,3 +30816,7 @@ body p {
     text-decoration: none; 
     color: inherit; 
 }
+.hall-image img{
+  width: 600px;
+  height: 400px;
+}
