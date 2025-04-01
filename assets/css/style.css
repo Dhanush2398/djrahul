@@ -30745,3 +30745,27 @@ html {
 body p {
   color: white !important;
 }
+.footer-section {
+
+  background-color: #111; 
+  color: #fff; 
+}
+
+.footer-nav {
+  color: #ccc; 
+}
+
+.footer-section a {
+  color: #ffcc00; 
+  text-decoration: none;
+}
+
+.footer-nav a {
+  color: #ffcc00 !important; 
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+.footer-section a:hover {
+  color: #b20d5d ; 
+}
