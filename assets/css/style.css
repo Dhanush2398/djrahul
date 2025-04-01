@@ -30742,3 +30742,6 @@ html {
       font-size: 16px;
   }
 }
+body p {
+  color: white !important;
+}
