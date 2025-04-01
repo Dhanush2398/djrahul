@@ -30769,3 +30769,7 @@ body p {
 .footer-section a:hover {
   color: #b20d5d ; 
 }
+
+.social-icons a:hover {
+  color: #b20d5d !important; 
+}
