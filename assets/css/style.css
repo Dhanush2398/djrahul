@@ -30774,49 +30774,35 @@ body p {
   color: #b20d5d !important; 
 }
 
+.Whatsapp-box, 
+.Call-box {
+  position: fixed;
+  right: 15px;
+  width: 50px; 
+  height: 50px;
+  background: #4eb478;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 996;
+  transition: all 0.4s;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+  text-decoration: none; 
+}
 
 .Whatsapp-box {
-  position: fixed;
-  right: 15px;
   bottom: 15px;
-  z-index: 996;
-  background: #4eb478;
-  width: 60px;
-  height: 55px;
-  border-radius: 4px;
-  transition: all 0.4s;
-}
-
-.Whatsapp-box i {
-  font-size: 24px;
-  color: #fff !important;
-  line-height: 0;
+  background: #25d366; 
 }
 
 .Call-box {
-  position: fixed;
-  right: 15px;
-  bottom: 85px; 
-  z-index: 996;
+  bottom: 75px; 
   background: #007bff; 
-  width: 60px;
-  height: 55px;
-  border-radius: 4px;
-  transition: all 0.4s;
 }
 
+.Whatsapp-box i, 
 .Call-box i {
-  font-size: 24px;
+  font-size: 22px; 
   color: #fff !important;
-  line-height: 0;
-}
-
-.Whatsapp-box,
-.Call-box {
-    text-decoration: none; 
-    color: inherit; 
-}
-.hall-image img{
-  width: 600px;
-  height: 400px;
 }
