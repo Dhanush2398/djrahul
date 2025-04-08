@@ -26055,8 +26055,8 @@ a {
 .home-1 {
   --bs-warning: #0db231;
   --bs-warning-rgb: 13, 178, 49;
-  --bs-primary: #B20D5D;
-  --bs-primary-rgb: 178, 13, 93;
+  --bs-primary: #007BFF; 
+  --bs-primary-rgb: 0, 123, 255;
   --bs-secondary: #490AB5;
   --bs-secondary-rgb: 73, 10, 181;
   --bs-headings-color-light: #686666;
@@ -30154,9 +30154,7 @@ html {
   margin-bottom: 0;
 }
 
-.fw-extra-bold {
-  font-weight: 800;
-}
+
 
 .fw-extra-huge-bold {
   font-weight: 900;
